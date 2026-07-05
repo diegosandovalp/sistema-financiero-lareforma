@@ -1,0 +1,15 @@
+ID_Empleado,Nombres,Apellidos,Nombre_completo,Documento,Fecha_ingreso,Cuenta_bancaria,Banco_asociado
+EMP000,Clara Diana Acevedo Ortiz,David Ferney Cruz Suárez,César Alirio Sánchez Salamanca,7473041886,2026/01/01,34635766833,Banco Central
+EMP001,Antonio Estiven Martínez Acevedo,Martha Sofía Castillo Castro,Katherine Martínez,8159250505,2026/01/01,21419677016,Banco del Valle
+EMP002,José Quintero,,Manuela María García,6695912196,2026/02/08,79938330064,Banco Central
+EMP003,Yolanda Muñoz Mena,Marlén Isabel Bedoya,Alejandra Ofelia Jaramillo Escobar,8289454630,2026/02/09,98750576438,Banco Central
+EMP004,Julio González Garcés,Pedro Benítez Valencia,Natalia Guerrero,3381183483,2026/02/16,55609377868,Banco Norte
+EMP005,Luisa Palacio Murillo,Luz Manrique,Fidel Alberto Becerra,6118914230,2026/04/01,41398012517,Banco Norte
+EMP006,Fernanda Gómez Morales,Nancy Castrillón Gómez,Marcela Patricia Jaimes Cruz,7739255769,2026/04/18,39233965046,Banco Norte
+EMP007,Verónica Rojas,Javier Serna Mendoza,María Mercedes Londoño,4580822352,2026/04/20,10632880459,Banco Norte
+EMP008,Nelly Gloria Velásquez Pulido,Elena Nancy Muñoz,María Sandra Ortiz,6600100279,2026/04/28,40263257488,Banco Norte
+EMP009,Gladis Moreno Pérez,José Velandia Montoya,Walter Gilberto Arias,6197695041,2026/05/09,78650482468,Banco Central
+EMP010,Edna Rodríguez Galvis,Nora Ruby García,Marina Ríos Suárez,6679017210,2026/05/09,21890571177,Banco Andino
+EMP011,Gustavo Ariza Páez,Rosa María Vergara Valencia,Nelly Cortés,7192423780,2026/05/20,67790572388,Banco Central
+EMP012,Adolfo Camilo Camacho,Álvaro Luis Maldonado,Yuly Patricia González,3901796894,2026/06/24,99705274973,Banco Andino
+EMP013,Marcela Helena González Bohórquez,,Astrid Ana Castro,7490442894,2026/09/01,38242291466,Banco Norte

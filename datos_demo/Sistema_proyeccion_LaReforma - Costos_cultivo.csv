@@ -1,0 +1,63 @@
+ID_Cultivo,ID_Costo,Actividad,Subactividad,Categoria,Insumo,Mes_ejecucion,Unidad,Dosis_ha,Costo_unitario,Costo_ha,Costo_total,Forma_pago,Observaciones
+A-2026-Arroz,CC-001,Arriendo de tierra,,Arriendo,Arriendo de tierra,2026/10/01,ha,1.0,350000.0,350000.0,26000000.0,Contado,"$65M pagados, $26M pendientes"
+A-2026-Arroz,CC-002,Preparacion del suelo,Enmienda,Correccion suelo,Cal dolomita,2026/09/01,kg,0.0,375.0,0.0,0.0,Credito,$240 por kilo de cal + $140 por kilo de transporte
+A-2026-Arroz,CC-003,Preparacion del suelo,Mecanizacion terreno,Mecanizacion,Pase de rastra,2026/04/01,servicio,2.0,150000.0,300000.0,69000000.0,Contado,Maquinaria propia
+A-2026-Arroz,CC-004,Preparacion del suelo,Mecanizacion terreno,Mecanizacion,Pase de rastrillo,2026/04/01,servicio,1.0,100000.0,100000.0,23000000.0,Contado,Maquinaria propia
+A-2026-Arroz,CC-005,Siembra,Semilla,Semilla,Semilla arroz,2026/09/01,kg,150.0,5200.0,780000.0,179400000.0,Credito,
+A-2026-Arroz,CC-006,Siembra,Semilla,Mecanizacion,Siembra con sembradora,2026/05/10,servicio,1.0,140000.0,140000.0,32200000.0,Contado,Maquinaria propia
+A-2026-Arroz,CC-007,Control de malezas,Preemergencia,Agroquimico,Glifosato,2026/09/01,l,1.5,12500.0,18750.0,4312500.0,Credito,
+A-2026-Arroz,CC-008,Control de malezas,Preemergencia,Agroquimico,Oxadiazon 38,2026/09/01,l,1.5,95000.0,142500.0,32775000.0,Credito,
+A-2026-Arroz,CC-009,Control de malezas,Preemergencia,Agroquimico,Coadyuvante,2026/09/01,l,0.5,20000.0,10000.0,2300000.0,Credito,
+A-2026-Arroz,CC-010,Control de malezas,Preemergencia,Mecanizacion,Aplicacion terrestre,2026/05/10,servicio,1.0,35000.0,35000.0,8050000.0,Contado,Maquinaria propia
+A-2026-Arroz,CC-011,Control de malezas,Post temprana,Agroquimico,Bispiribac,2026/09/01,l,0.15,110000.0,16500.0,3795000.0,Credito,
+A-2026-Arroz,CC-012,Control de malezas,Post temprana,Agroquimico,Pendimetalina,2026/09/01,l,2.5,29500.0,73750.0,16962500.0,Credito,
+A-2026-Arroz,CC-013,Control de malezas,Post temprana,Agroquimico,Metsulfuron,2026/09/01,g,4.0,200.0,800.0,184000.0,Credito,
+A-2026-Arroz,CC-014,Control de malezas,Post temprana,Agroquimico,Picloram,2026/09/01,l,0.16,75000.0,12000.0,2760000.0,Credito,
+A-2026-Arroz,CC-015,Control de malezas,Post temprana,Agroquimico,Lufenuron,2026/09/01,l,0.2,80000.0,16000.0,3680000.0,Credito,
+A-2026-Arroz,CC-016,Control de malezas,Post temprana,Agroquimico,Imidacloprid,2026/09/01,l,0.3,33000.0,9900.0,2277000.0,Credito,
+A-2026-Arroz,CC-017,Control de malezas,Post temprana,Agroquimico,Emamectina de Benzoato,2026/09/01,kg,0.2,250000.0,50000.0,11500000.0,Credito,
+A-2026-Arroz,CC-018,Control de malezas,Post temprana,Agroquimico,Triciclazol,2026/09/01,kg,0.25,65000.0,16250.0,3737500.0,Credito,
+A-2026-Arroz,CC-019,Control de malezas,Post temprana,Agroquimico,Coadyuvante,2026/09/01,l,0.5,20000.0,10000.0,2300000.0,Credito,
+A-2026-Arroz,CC-020,Control de malezas,Post temprana,Mecanizacion,Aplicacion terrestre,2026/06/01,servicio,1.0,35000.0,35000.0,8050000.0,Contado,Maquinaria propia
+A-2026-Arroz,CC-021,Abonamientos,Preabonamiento,Fertilizante,Disan Siembra 7-35-10,2026/09/01,kg,175.0,4400.0,770000.0,177100000.0,Credito,
+A-2026-Arroz,CC-022,Abonamientos,Primera abonada,Fertilizante,Urea,2026/09/01,kg,65.0,3100.0,201500.0,46345000.0,Credito,
+A-2026-Arroz,CC-023,Abonamientos,Primera abonada,Fertilizante,KCl,2026/09/01,kg,50.0,2000.0,100000.0,23000000.0,Credito,
+A-2026-Arroz,CC-024,Abonamientos,Primera abonada,Fertilizante,Kieserita,2026/09/01,kg,50.0,1800.0,90000.0,20700000.0,Credito,
+A-2026-Arroz,CC-025,Abonamientos,Primera abonada,Fertilizante,Yeso,2026/09/01,kg,50.0,1500.0,75000.0,17250000.0,Credito,
+A-2026-Arroz,CC-026,Abonamientos,Primera abonada,Mecanizacion,Aplicacion terrestre,2026/06/01,servicio,1.0,35000.0,35000.0,8050000.0,Contado,Maquinaria propia
+A-2026-Arroz,CC-027,Abonamientos,Segunda abonada,Fertilizante,Urea,2026/09/01,kg,60.0,3100.0,186000.0,42780000.0,Credito,
+A-2026-Arroz,CC-028,Abonamientos,Segunda abonada,Fertilizante,KCl,2026/09/01,kg,50.0,2000.0,100000.0,23000000.0,Credito,
+A-2026-Arroz,CC-029,Abonamientos,Segunda abonada,Fertilizante,Kieserita,2026/09/01,kg,25.0,1800.0,45000.0,10350000.0,Credito,
+A-2026-Arroz,CC-030,Abonamientos,Segunda abonada,Fertilizante,Yeso,2026/09/01,kg,50.0,1500.0,75000.0,17250000.0,Credito,
+A-2026-Arroz,CC-031,Abonamientos,Segunda abonada,Mecanizacion,Aplicacion terrestre,2026/07/01,servicio,1.0,35000.0,35000.0,8050000.0,Contado,Maquinaria propia
+A-2026-Arroz,CC-032,Abonamientos,Tercer abonada,Fertilizante,Urea,2026/09/01,kg,50.0,3100.0,155000.0,35650000.0,Credito,
+A-2026-Arroz,CC-033,Abonamientos,Tercer abonada,Fertilizante,KCl,2026/09/01,kg,50.0,2000.0,100000.0,23000000.0,Credito,
+A-2026-Arroz,CC-034,Abonamientos,Tercer abonada,Fertilizante,Yeso,2026/09/01,kg,25.0,1500.0,37500.0,8625000.0,Credito,
+A-2026-Arroz,CC-035,Abonamientos,Tercer abonada,Mecanizacion,Aplicacion terrestre,2026/07/01,servicio,1.0,35000.0,35000.0,8050000.0,Contado,Maquinaria propia
+A-2026-Arroz,CC-036,Control fitosanitario,Aplicacion en hoja,Agroquimico,Planity Max,2026/09/01,l,0.5,160000.0,80000.0,18400000.0,Credito,
+A-2026-Arroz,CC-037,Control fitosanitario,Aplicacion en hoja,Agroquimico,Triciclazol,2026/09/01,kg,0.25,65000.0,16250.0,3737500.0,Credito,
+A-2026-Arroz,CC-038,Control fitosanitario,Aplicacion en hoja,Agroquimico,Clorantraniliprole,2026/09/01,kg,0.18,300000.0,52500.0,12075000.0,Credito,
+A-2026-Arroz,CC-039,Control fitosanitario,Aplicacion en hoja,Agroquimico,Coadyuvante,2026/09/01,l,0.18,20000.0,3500.0,805000.0,Credito,
+A-2026-Arroz,CC-040,Control fitosanitario,Aplicacion en hoja,Mecanizacion,Aplicacion terrestre,2026/08/01,servicio,1.0,35000.0,35000.0,8050000.0,Contado,Maquinaria propia
+A-2026-Arroz,CC-041,Control fitosanitario,Primera aplicacion espiga,Agroquimico,Piraclostrubin,2026/09/01,l,0.5,130000.0,65000.0,14950000.0,Credito,
+A-2026-Arroz,CC-042,Control fitosanitario,Primera aplicacion espiga,Agroquimico,Epoxiconazole,2026/09/01,l,0.5,116000.0,58000.0,13340000.0,Credito,
+A-2026-Arroz,CC-043,Control fitosanitario,Primera aplicacion espiga,Agroquimico,Kasugamicina,2026/09/01,l,1.3,12000.0,15600.0,3588000.0,Credito,
+A-2026-Arroz,CC-044,Control fitosanitario,Primera aplicacion espiga,Agroquimico,Triciclazol,2026/09/01,kg,0.3,65000.0,19500.0,4485000.0,Credito,
+A-2026-Arroz,CC-045,Control fitosanitario,Primera aplicacion espiga,Agroquimico,Thiametoxan Top,2026/09/01,l,0.2,50000.0,10000.0,2300000.0,Credito,
+A-2026-Arroz,CC-046,Control fitosanitario,Primera aplicacion espiga,Agroquimico,Ac. Giberelico,2026/09/01,g,10.0,1000.0,10000.0,2300000.0,Credito,
+A-2026-Arroz,CC-047,Control fitosanitario,Primera aplicacion espiga,Agroquimico,Globafol,2026/09/01,l,1.0,51900.0,51900.0,11937000.0,Credito,
+A-2026-Arroz,CC-048,Control fitosanitario,Primera aplicacion espiga,Agroquimico,Coadyuvante,2026/09/01,l,0.5,20000.0,10000.0,2300000.0,Credito,
+A-2026-Arroz,CC-049,Control fitosanitario,Primera aplicacion espiga,Servicio aereo,Aplicacion aerea,2026/08/01,servicio,1.0,55000.0,55000.0,12650000.0,Contado,
+A-2026-Arroz,CC-050,Control fitosanitario,Segunda aplicacion espiga,Agroquimico,Kasugamicina,2026/09/01,l,1.5,12000.0,18000.0,4140000.0,Credito,
+A-2026-Arroz,CC-051,Control fitosanitario,Segunda aplicacion espiga,Agroquimico,Clorotalonil,2026/09/01,l,1.4,32000.0,44800.0,10304000.0,Credito,
+A-2026-Arroz,CC-052,Control fitosanitario,Segunda aplicacion espiga,Agroquimico,Imidacloprid,2026/09/01,l,0.3,33000.0,9900.0,2277000.0,Credito,
+A-2026-Arroz,CC-053,Control fitosanitario,Segunda aplicacion espiga,Agroquimico,Propiconazol,2026/09/01,l,0.5,88000.0,44000.0,10120000.0,Credito,
+A-2026-Arroz,CC-054,Control fitosanitario,Segunda aplicacion espiga,Agroquimico,Coadyuvante,2026/09/01,l,0.5,20000.0,10000.0,2300000.0,Credito,
+A-2026-Arroz,CC-055,Control fitosanitario,Segunda aplicacion espiga,Servicio aereo,Aplicacion aérea,2026/08/01,servicio,1.0,55000.0,55000.0,12650000.0,Contado,
+A-2026-Arroz,CC-056,Envios,Semilla y otros,Transporte,Flete semilla y otros,2026/09/01,ton,0.18,150000.0,27000.0,6210000.0,Contado,
+A-2026-Arroz,CC-057,Cosecha,,Transporte,Transporte cosecha,2026/09/01,ton,5.0,150000.0,750000.0,172500000.0,Contado,
+A-2026-Arroz,CC-058,Cosecha,,Servicio,Cosecha combinada,2026/09/01,kg,5000.0,75.0,375000.0,86250000.0,Contado,Maquinaria propia
+A-2026-Arroz,CC-059,Cosecha,,Servicio,Zorreo,2026/09/01,kg,5000.0,20.0,100000.0,23000000.0,Contado,Maquinaria propia
+A-2026-Arroz,CC-060,Cosecha,,Combustible,Combustible cosecha,2026/09/01,kg,5000.0,15.0,75000.0,17250000.0,Contado,
+A-2026-Arroz,CC-061,Cosecha,,Personal,Comida operadores,2026/09/01,kg,5000.0,5.0,25000.0,5750000.0,Contado,
+A-2026-Arroz,CC-062,Imprevistos,,Administracion,"Admon, asis tecnica y otros",2026/09/01,ha,1.0,100000.0,100000.0,23000000.0,Contado,

@@ -1,0 +1,13 @@
+# Secretos - NUNCA subir
+.env
+
+# Datos REALES de la finca - NUNCA subir (solo se publica datos_demo/)
+datos/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db

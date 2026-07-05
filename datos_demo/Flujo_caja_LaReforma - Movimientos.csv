@@ -1,0 +1,516 @@
+Fecha,Tipo,Categoria,Subcategoria,Concepto,Valor,Escenario,Origen,Estado_movimiento,Estado_pago,Anio,Mes
+2026-10-01,Egreso,Arriendo de tierra,,Arriendo de tierra,26000000.0,Fijo,Cultivo,Proyectado,,2026,2026-10
+2026-09-01,Egreso,Preparacion del suelo,Enmienda,Cal dolomita,0.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-04-01,Egreso,Preparacion del suelo,Mecanizacion terreno,Pase de rastra,69000000.0,Fijo,Cultivo,Proyectado,,2026,2026-04
+2026-04-01,Egreso,Preparacion del suelo,Mecanizacion terreno,Pase de rastrillo,23000000.0,Fijo,Cultivo,Proyectado,,2026,2026-04
+2026-09-01,Egreso,Siembra,Semilla,Semilla arroz,179400000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-05-10,Egreso,Siembra,Semilla,Siembra con sembradora,32200000.0,Fijo,Cultivo,Proyectado,,2026,2026-05
+2026-09-01,Egreso,Control de malezas,Preemergencia,Glifosato,4312500.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control de malezas,Preemergencia,Oxadiazon 38,32775000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control de malezas,Preemergencia,Coadyuvante,2300000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-05-10,Egreso,Control de malezas,Preemergencia,Aplicacion terrestre,8050000.0,Fijo,Cultivo,Proyectado,,2026,2026-05
+2026-09-01,Egreso,Control de malezas,Post temprana,Bispiribac,3795000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control de malezas,Post temprana,Pendimetalina,16962500.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control de malezas,Post temprana,Metsulfuron,184000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control de malezas,Post temprana,Picloram,2760000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control de malezas,Post temprana,Lufenuron,3680000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control de malezas,Post temprana,Imidacloprid,2277000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control de malezas,Post temprana,Emamectina de Benzoato,11500000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control de malezas,Post temprana,Triciclazol,3737500.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control de malezas,Post temprana,Coadyuvante,2300000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-06-01,Egreso,Control de malezas,Post temprana,Aplicacion terrestre,8050000.0,Fijo,Cultivo,Proyectado,,2026,2026-06
+2026-09-01,Egreso,Abonamientos,Preabonamiento,Disan Siembra 7-35-10,177100000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Abonamientos,Primera abonada,Urea,46345000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Abonamientos,Primera abonada,KCl,23000000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Abonamientos,Primera abonada,Kieserita,20700000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Abonamientos,Primera abonada,Yeso,17250000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-06-01,Egreso,Abonamientos,Primera abonada,Aplicacion terrestre,8050000.0,Fijo,Cultivo,Proyectado,,2026,2026-06
+2026-09-01,Egreso,Abonamientos,Segunda abonada,Urea,42780000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Abonamientos,Segunda abonada,KCl,23000000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Abonamientos,Segunda abonada,Kieserita,10350000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Abonamientos,Segunda abonada,Yeso,17250000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-07-01,Egreso,Abonamientos,Segunda abonada,Aplicacion terrestre,8050000.0,Fijo,Cultivo,Proyectado,,2026,2026-07
+2026-09-01,Egreso,Abonamientos,Tercer abonada,Urea,35650000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Abonamientos,Tercer abonada,KCl,23000000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Abonamientos,Tercer abonada,Yeso,8625000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-07-01,Egreso,Abonamientos,Tercer abonada,Aplicacion terrestre,8050000.0,Fijo,Cultivo,Proyectado,,2026,2026-07
+2026-09-01,Egreso,Control fitosanitario,Aplicacion en hoja,Planity Max,18400000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control fitosanitario,Aplicacion en hoja,Triciclazol,3737500.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control fitosanitario,Aplicacion en hoja,Clorantraniliprole,12075000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control fitosanitario,Aplicacion en hoja,Coadyuvante,805000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-08-01,Egreso,Control fitosanitario,Aplicacion en hoja,Aplicacion terrestre,8050000.0,Fijo,Cultivo,Proyectado,,2026,2026-08
+2026-09-01,Egreso,Control fitosanitario,Primera aplicacion espiga,Piraclostrubin,14950000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control fitosanitario,Primera aplicacion espiga,Epoxiconazole,13340000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control fitosanitario,Primera aplicacion espiga,Kasugamicina,3588000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control fitosanitario,Primera aplicacion espiga,Triciclazol,4485000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control fitosanitario,Primera aplicacion espiga,Thiametoxan Top,2300000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control fitosanitario,Primera aplicacion espiga,Ac. Giberelico,2300000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control fitosanitario,Primera aplicacion espiga,Globafol,11937000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control fitosanitario,Primera aplicacion espiga,Coadyuvante,2300000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-08-01,Egreso,Control fitosanitario,Primera aplicacion espiga,Aplicacion aerea,12650000.0,Fijo,Cultivo,Proyectado,,2026,2026-08
+2026-09-01,Egreso,Control fitosanitario,Segunda aplicacion espiga,Kasugamicina,4140000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control fitosanitario,Segunda aplicacion espiga,Clorotalonil,10304000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control fitosanitario,Segunda aplicacion espiga,Imidacloprid,2277000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control fitosanitario,Segunda aplicacion espiga,Propiconazol,10120000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Control fitosanitario,Segunda aplicacion espiga,Coadyuvante,2300000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-08-01,Egreso,Control fitosanitario,Segunda aplicacion espiga,Aplicacion aérea,12650000.0,Fijo,Cultivo,Proyectado,,2026,2026-08
+2026-09-01,Egreso,Envios,Semilla y otros,Flete semilla y otros,6210000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Cosecha,,Transporte cosecha,172500000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Cosecha,,Cosecha combinada,86250000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Cosecha,,Zorreo,23000000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Cosecha,,Combustible cosecha,17250000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Cosecha,,Comida operadores,5750000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-01,Egreso,Imprevistos,,"Admon, asis tecnica y otros",23000000.0,Fijo,Cultivo,Proyectado,,2026,2026-09
+2026-09-08,Ingreso,Cosecha,Venta arroz,Venta cosecha pesimista con maquinaria,1491550000.0,Pesimista,Cultivo,Fijo,,2026,2026-09
+2026-09-08,Ingreso,Cosecha,Venta arroz,Venta cosecha base con maquinaria,1627250000.0,Base,Cultivo,Fijo,,2026,2026-09
+2026-09-08,Ingreso,Cosecha,Venta arroz,Venta cosecha optimista con maquinaria,1894050000.0,Optimista,Cultivo,Fijo,,2026,2026-09
+2026-10-09,Egreso,Fertilizante,CLORURO DE POTASIO GRANULADO K2O,Comercializadora Agrollanura S.A.S,26067000.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-10
+2026-10-09,Egreso,Fertilizante,MF 7-31-11-15Si,Comercializadora Agrollanura S.A.S,29121840.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-10
+2026-10-09,Egreso,Fertilizante,UREA NUTRISPHERE SC50 (Nitrogenico ureico),Comercializadora Agrollanura S.A.S,54043410.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-10
+2026-09-04,Egreso,Semilla,SEMILLA ARROZ GENEROSA 13-46,Comercializadora Agrollanura S.A.S,80414360.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-04,Egreso,Agroquimico,EXIMO 38 SC * 20 LITROS (OXADIAZON),Comercializadora Agrollanura S.A.S,1475000.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-04,Egreso,Agroquimico,Oxyfluorfen 240 * 20 litros,Comercializadora Agrollanura S.A.S,885000.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-04,Egreso,Semilla,SEMILLA COROCORA * 50KG,Comercializadora Agrollanura S.A.S,43424000.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-04,Egreso,Semilla,SEMILLAS TUKANO,Comercializadora Agrollanura S.A.S,16284000.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-05,Egreso,Fertilizante,MF DISAN SIEMBRA 7-35-12,Comercializadora Agrollanura S.A.S,76452200.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-17,Egreso,Agroquimico,DESIGNEE 400 SC * 1 LITRO,Comercializadora Agrollanura S.A.S,1412184.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-17,Egreso,Agroquimico,PICLORAM 240 SL *1 LITRO (PICLORAM),Comercializadora Agrollanura S.A.S,400000.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-17,Egreso,Agroquimico,METSULFURON METIL 60% WG-DVA * 1 KILO (METSULFURON METHYL),Comercializadora Agrollanura S.A.S,70731.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-17,Egreso,Agroquimico,BINGO SG * 1 KG (ACETAMIPRID + EMAMECTIN),Comercializadora Agrollanura S.A.S,4243890.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-17,Egreso,Agroquimico,CUMBIA WP * 1 KILO (TRICYCLAZOLE),Comercializadora Agrollanura S.A.S,717072.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-17,Egreso,Agroquimico,GLIFOSOL 480 SL * 20 LITROS (GLIFOSATO),Comercializadora Agrollanura S.A.S,1341992.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-17,Egreso,Agroquimico,PENDIMETALINA 400 EC * 20 LITROS (PENDIMETALINA),Comercializadora Agrollanura S.A.S,2463412.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-18,Egreso,Agroquimico,DIFLUPROTEKT 500 SC * 20 LITROS (DIFLUFENICAN),Comercializadora Agrollanura S.A.S,2195121.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-18,Egreso,Agroquimico,INHIBIT EVOFARMS 50 EC * 1 LITRO (LUFENURON),Comercializadora Agrollanura S.A.S,395112.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-24,Egreso,Agroquimico,DESIGNEE 400 SC * 1 LITRO (BYSPIRIBAC),Comercializadora Agrollanura S.A.S,823774.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-24,Egreso,Agroquimico,PICLORAM 240 SL *1 LITRO (PICLORAM),Comercializadora Agrollanura S.A.S,392000.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-24,Egreso,Agroquimico,BINGO ME * 20 LITROS (ACETAMIPRID + EMAMECTIN),Comercializadora Agrollanura S.A.S,2171950.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-24,Egreso,Agroquimico,CUMBIA WP * 1 KILO (TRICYCLAZOLE),Comercializadora Agrollanura S.A.S,1219500.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-24,Egreso,Agroquimico,DIFLUPROTEKT 500 SC * 20 LITROS (DIFLUFENICAN),Comercializadora Agrollanura S.A.S,2195121.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-24,Egreso,Agroquimico,MIXEL TOP * 20 LITROS,Comercializadora Agrollanura S.A.S,2654150.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-04,Egreso,Agroquimico,EXIMO 38 SC * 20 LITROS (OXADIAZON),Comercializadora Agrollanura S.A.S,1475000.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-04,Egreso,Agroquimico,Oxyfluorfen 240 * 20 litros,Comercializadora Agrollanura S.A.S,885000.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-04,Egreso,Semilla,SEMILLA COROCORA * 50KG,Comercializadora Agrollanura S.A.S,43424000.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-04,Egreso,Semilla,SEMILLAS TUKANO,Comercializadora Agrollanura S.A.S,16284000.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-05,Egreso,Fertilizante,MF DISAN SIEMBRA 7-35-12,Comercializadora Agrollanura S.A.S,76452200.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-17,Egreso,Agroquimico,DESIGNEE 400 SC * 1 LITRO,Comercializadora Agrollanura S.A.S,1412184.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-17,Egreso,Agroquimico,PICLORAM 240 SL *1 LITRO (PICLORAM),Comercializadora Agrollanura S.A.S,400000.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-17,Egreso,Agroquimico,BINGO SG * 1 KG (ACETAMIPRID + EMAMECTIN),Comercializadora Agrollanura S.A.S,4243890.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-17,Egreso,Agroquimico,CUMBIA WP * 1 KILO (TRICYCLAZOLE),Comercializadora Agrollanura S.A.S,717072.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-17,Egreso,Agroquimico,GLIFOSOL 480 SL * 20 LITROS (GLIFOSATO),Comercializadora Agrollanura S.A.S,1006494.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-17,Egreso,Agroquimico,PENDIMETALINA 400 EC * 20 LITROS (PENDIMETALINA),Comercializadora Agrollanura S.A.S,2463412.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-18,Egreso,Agroquimico,DIFLUPROTEKT 500 SC * 20 LITROS (DIFLUFENICAN),Comercializadora Agrollanura S.A.S,2195121.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-18,Egreso,Agroquimico,INHIBIT EVOFARMS 50 EC * 1 LITRO (LUFENURON),Comercializadora Agrollanura S.A.S,395112.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-24,Egreso,Agroquimico,DESIGNEE 400 SC * 1 LITRO (BYSPIRIBAC),Comercializadora Agrollanura S.A.S,941456.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-24,Egreso,Agroquimico,SURFATRON 350 * 1 LITRO (ALKIL ARIL POLIETER),Comercializadora Agrollanura S.A.S,1.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-24,Egreso,Agroquimico,PICLORAM 240 SL *1 LITRO (PICLORAM),Comercializadora Agrollanura S.A.S,392000.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-24,Egreso,Agroquimico,BINGO ME * 20 LITROS (ACETAMIPRID + EMAMECTIN),Comercializadora Agrollanura S.A.S,1085975.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-24,Egreso,Agroquimico,CUMBIA WP * 1 KILO (TRICYCLAZOLE),Comercializadora Agrollanura S.A.S,1097550.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-24,Egreso,Agroquimico,GLIFOSOL 480 SL * 20 LITROS (GLIFOSATO),Comercializadora Agrollanura S.A.S,2256097.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-24,Egreso,Agroquimico,DIFLUPROTEKT 500 SC * 20 LITROS (DIFLUFENICAN),Comercializadora Agrollanura S.A.S,2195121.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-09-24,Egreso,Agroquimico,TRICYCLAZOLE 75 WP * 1 KG (TRYCICLAZOLE 75%),Comercializadora Agrollanura S.A.S,609750.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-09
+2026-10-03,Egreso,Agroquimico,EXIMO 38 SC * 20 LITROS (OXADIAZON),Comercializadora Agrollanura S.A.S,7375000.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-10
+2026-10-09,Egreso,Fertilizante,CLORURO DE POTASIO GRANULADO K2O,Comercializadora Agrollanura S.A.S,26067000.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-10
+2026-10-09,Egreso,Fertilizante,MF 7-31-11-15Si,Comercializadora Agrollanura S.A.S,29121840.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-10
+2026-10-09,Egreso,Fertilizante,UREA NUTRISPHERE SC50 (Nitrogenico ureico),Comercializadora Agrollanura S.A.S,54043410.0,Fijo,Cultivo,Ejecutado,Pendiente,2026,2026-10
+2027-04-30,Egreso,Abono capital,BBVA,2996,15384615.38,Fijo,Financiero,Fijo,,2027,2027-04
+2027-10-30,Egreso,Abono capital,BBVA,2996,15384615.38,Fijo,Financiero,Fijo,,2027,2027-10
+2028-04-30,Egreso,Abono capital,BBVA,2996,15384615.38,Fijo,Financiero,Fijo,,2028,2028-04
+2028-10-30,Egreso,Abono capital,BBVA,2996,15384615.38,Fijo,Financiero,Fijo,,2028,2028-10
+2029-04-30,Egreso,Abono capital,BBVA,2996,15384615.38,Fijo,Financiero,Fijo,,2029,2029-04
+2029-10-30,Egreso,Abono capital,BBVA,2996,15384615.38,Fijo,Financiero,Fijo,,2029,2029-10
+2030-04-30,Egreso,Abono capital,BBVA,2996,15384615.38,Fijo,Financiero,Fijo,,2030,2030-04
+2030-10-30,Egreso,Abono capital,BBVA,2996,15384615.38,Fijo,Financiero,Fijo,,2030,2030-10
+2031-04-30,Egreso,Abono capital,BBVA,2996,15384615.38,Fijo,Financiero,Fijo,,2031,2031-04
+2031-10-30,Egreso,Abono capital,BBVA,2996,15384615.38,Fijo,Financiero,Fijo,,2031,2031-10
+2032-04-30,Egreso,Abono capital,BBVA,2996,15384615.38,Fijo,Financiero,Fijo,,2032,2032-04
+2032-10-30,Egreso,Abono capital,BBVA,2996,15384615.38,Fijo,Financiero,Fijo,,2032,2032-10
+2033-04-30,Egreso,Abono capital,BBVA,2996,15384615.38,Fijo,Financiero,Fijo,,2033,2033-04
+2027-04-20,Egreso,Abono capital,BBVA,5638,39800000.0,Fijo,Financiero,Fijo,,2027,2027-04
+2027-10-20,Egreso,Abono capital,BBVA,5638,39800000.0,Fijo,Financiero,Fijo,,2027,2027-10
+2028-04-20,Egreso,Abono capital,BBVA,5638,39800000.0,Fijo,Financiero,Fijo,,2028,2028-04
+2028-10-20,Egreso,Abono capital,BBVA,5638,39800000.0,Fijo,Financiero,Fijo,,2028,2028-10
+2029-04-20,Egreso,Abono capital,BBVA,5638,39800000.0,Fijo,Financiero,Fijo,,2029,2029-04
+2026-08-11,Egreso,Abono capital,Agrario,1967,4687500.0,Fijo,Financiero,Fijo,,2026,2026-08
+2027-02-11,Egreso,Abono capital,Agrario,1967,4687500.0,Fijo,Financiero,Fijo,,2027,2027-02
+2027-08-11,Egreso,Abono capital,Agrario,1967,4687500.0,Fijo,Financiero,Fijo,,2027,2027-08
+2028-02-11,Egreso,Abono capital,Agrario,1967,4687500.0,Fijo,Financiero,Fijo,,2028,2028-02
+2027-01-16,Egreso,Abono capital,Agrario,2537,110000000.0,Fijo,Financiero,Fijo,,2027,2027-01
+2026-12-03,Egreso,Abono capital,Agrario,3417,4222500.0,Fijo,Financiero,Fijo,,2026,2026-12
+2027-06-03,Egreso,Abono capital,Agrario,3417,4222500.0,Fijo,Financiero,Fijo,,2027,2027-06
+2027-12-03,Egreso,Abono capital,Agrario,3417,4222500.0,Fijo,Financiero,Fijo,,2027,2027-12
+2028-06-03,Egreso,Abono capital,Agrario,3417,4222500.0,Fijo,Financiero,Fijo,,2028,2028-06
+2027-03-29,Egreso,Abono capital,Agrario,3347,20898000.0,Fijo,Financiero,Fijo,,2027,2027-03
+2026-09-27,Egreso,Abono capital,Bancol,9487,5000000.0,Fijo,Financiero,Fijo,,2026,2026-09
+2027-03-27,Egreso,Abono capital,Bancol,9487,5000000.0,Fijo,Financiero,Fijo,,2027,2027-03
+2026-10-01,Egreso,Abono capital,Bancol,9539,5000000.0,Fijo,Financiero,Fijo,,2026,2026-10
+2027-04-01,Egreso,Abono capital,Bancol,9539,5000000.0,Fijo,Financiero,Fijo,,2027,2027-04
+2026-07-01,Egreso,Abono capital,Bogota,3831,768276.35,Fijo,Financiero,Fijo,,2026,2026-07
+2026-08-01,Egreso,Abono capital,Bogota,3831,784479.25,Fijo,Financiero,Fijo,,2026,2026-08
+2026-09-01,Egreso,Abono capital,Bogota,3831,801023.86,Fijo,Financiero,Fijo,,2026,2026-09
+2026-10-01,Egreso,Abono capital,Bogota,3831,817917.4,Fijo,Financiero,Fijo,,2026,2026-10
+2026-11-01,Egreso,Abono capital,Bogota,3831,835167.22,Fijo,Financiero,Fijo,,2026,2026-11
+2026-12-01,Egreso,Abono capital,Bogota,3831,852780.83,Fijo,Financiero,Fijo,,2026,2026-12
+2027-01-01,Egreso,Abono capital,Bogota,3831,870765.92,Fijo,Financiero,Fijo,,2027,2027-01
+2027-02-01,Egreso,Abono capital,Bogota,3831,889130.32,Fijo,Financiero,Fijo,,2027,2027-02
+2027-03-01,Egreso,Abono capital,Bogota,3831,907882.01,Fijo,Financiero,Fijo,,2027,2027-03
+2027-04-01,Egreso,Abono capital,Bogota,3831,927029.18,Fijo,Financiero,Fijo,,2027,2027-04
+2027-05-01,Egreso,Abono capital,Bogota,3831,946580.16,Fijo,Financiero,Fijo,,2027,2027-05
+2027-06-01,Egreso,Abono capital,Bogota,3831,966543.47,Fijo,Financiero,Fijo,,2027,2027-06
+2027-07-01,Egreso,Abono capital,Bogota,3831,986927.8,Fijo,Financiero,Fijo,,2027,2027-07
+2027-08-01,Egreso,Abono capital,Bogota,3831,1007742.04,Fijo,Financiero,Fijo,,2027,2027-08
+2027-09-01,Egreso,Abono capital,Bogota,3831,1028995.25,Fijo,Financiero,Fijo,,2027,2027-09
+2027-10-01,Egreso,Abono capital,Bogota,3831,1050696.69,Fijo,Financiero,Fijo,,2027,2027-10
+2027-11-01,Egreso,Abono capital,Bogota,3831,1072855.81,Fijo,Financiero,Fijo,,2027,2027-11
+2027-12-01,Egreso,Abono capital,Bogota,3831,1095482.26,Fijo,Financiero,Fijo,,2027,2027-12
+2028-01-01,Egreso,Abono capital,Bogota,3831,1118585.9,Fijo,Financiero,Fijo,,2028,2028-01
+2028-02-01,Egreso,Abono capital,Bogota,3831,1142176.8,Fijo,Financiero,Fijo,,2028,2028-02
+2028-03-01,Egreso,Abono capital,Bogota,3831,1166265.23,Fijo,Financiero,Fijo,,2028,2028-03
+2028-04-01,Egreso,Abono capital,Bogota,3831,1190861.68,Fijo,Financiero,Fijo,,2028,2028-04
+2028-05-01,Egreso,Abono capital,Bogota,3831,1215976.87,Fijo,Financiero,Fijo,,2028,2028-05
+2028-06-01,Egreso,Abono capital,Bogota,3831,1241621.74,Fijo,Financiero,Fijo,,2028,2028-06
+2028-07-01,Egreso,Abono capital,Bogota,3831,1267807.46,Fijo,Financiero,Fijo,,2028,2028-07
+2028-08-01,Egreso,Abono capital,Bogota,3831,1294545.43,Fijo,Financiero,Fijo,,2028,2028-08
+2028-09-01,Egreso,Abono capital,Bogota,3831,1321847.3,Fijo,Financiero,Fijo,,2028,2028-09
+2028-10-01,Egreso,Abono capital,Bogota,3831,1349724.96,Fijo,Financiero,Fijo,,2028,2028-10
+2028-11-01,Egreso,Abono capital,Bogota,3831,1378190.57,Fijo,Financiero,Fijo,,2028,2028-11
+2028-12-01,Egreso,Abono capital,Bogota,3831,1407256.51,Fijo,Financiero,Fijo,,2028,2028-12
+2029-01-01,Egreso,Abono capital,Bogota,3831,1436935.45,Fijo,Financiero,Fijo,,2029,2029-01
+2029-02-01,Egreso,Abono capital,Bogota,3831,1467240.32,Fijo,Financiero,Fijo,,2029,2029-02
+2029-03-01,Egreso,Abono capital,Bogota,3831,1498184.32,Fijo,Financiero,Fijo,,2029,2029-03
+2029-04-01,Egreso,Abono capital,Bogota,3831,1529780.92,Fijo,Financiero,Fijo,,2029,2029-04
+2029-05-01,Egreso,Abono capital,Bogota,3831,1562043.89,Fijo,Financiero,Fijo,,2029,2029-05
+2029-06-01,Egreso,Abono capital,Bogota,3831,1594987.29,Fijo,Financiero,Fijo,,2029,2029-06
+2029-07-01,Egreso,Abono capital,Bogota,3831,1628625.46,Fijo,Financiero,Fijo,,2029,2029-07
+2029-08-01,Egreso,Abono capital,Bogota,3831,1662973.05,Fijo,Financiero,Fijo,,2029,2029-08
+2029-09-01,Egreso,Abono capital,Bogota,3831,1698045.04,Fijo,Financiero,Fijo,,2029,2029-09
+2025-06-02,Egreso,Abono capital,BBVA,0352,25000000.0,Fijo,Financiero,Fijo,,2025,2025-06
+2025-12-02,Egreso,Abono capital,BBVA,0352,25000000.0,Fijo,Financiero,Fijo,,2025,2025-12
+2026-06-02,Egreso,Abono capital,BBVA,0352,25000000.0,Fijo,Financiero,Fijo,,2026,2026-06
+2026-12-02,Egreso,Abono capital,BBVA,0352,25000000.0,Fijo,Financiero,Fijo,,2026,2026-12
+2027-06-02,Egreso,Abono capital,BBVA,0352,25000000.0,Fijo,Financiero,Fijo,,2027,2027-06
+2027-12-02,Egreso,Abono capital,BBVA,0352,25000000.0,Fijo,Financiero,Fijo,,2027,2027-12
+2026-05-21,Egreso,Abono capital,Agrario,6499,9000000.0,Fijo,Financiero,Fijo,,2026,2026-05
+2026-11-21,Egreso,Abono capital,Agrario,6499,9000000.0,Fijo,Financiero,Fijo,,2026,2026-11
+2027-05-21,Egreso,Abono capital,Agrario,6499,9000000.0,Fijo,Financiero,Fijo,,2027,2027-05
+2027-11-21,Egreso,Abono capital,Agrario,6499,9000000.0,Fijo,Financiero,Fijo,,2027,2027-11
+2028-05-21,Egreso,Abono capital,Agrario,6499,9000000.0,Fijo,Financiero,Fijo,,2028,2028-05
+2028-11-21,Egreso,Abono capital,Agrario,6499,9000000.0,Fijo,Financiero,Fijo,,2028,2028-11
+2029-05-21,Egreso,Abono capital,Agrario,6499,9000000.0,Fijo,Financiero,Fijo,,2029,2029-05
+2029-11-21,Egreso,Abono capital,Agrario,6499,9000000.0,Fijo,Financiero,Fijo,,2029,2029-11
+2030-05-21,Egreso,Abono capital,Agrario,6499,9000000.0,Fijo,Financiero,Fijo,,2030,2030-05
+2030-11-21,Egreso,Abono capital,Agrario,6499,9000000.0,Fijo,Financiero,Fijo,,2030,2030-11
+2026-04-28,Egreso,Abono capital,Agrario,0717,7500000.0,Fijo,Financiero,Fijo,,2026,2026-04
+2026-10-28,Egreso,Abono capital,Agrario,0717,7500000.0,Fijo,Financiero,Fijo,,2026,2026-10
+2027-04-28,Egreso,Abono capital,Agrario,0717,7500000.0,Fijo,Financiero,Fijo,,2027,2027-04
+2027-10-28,Egreso,Abono capital,Agrario,0717,7500000.0,Fijo,Financiero,Fijo,,2027,2027-10
+2026-01-11,Egreso,Abono capital,Agrario,9229,12500000.0,Fijo,Financiero,Fijo,,2026,2026-01
+2026-07-11,Egreso,Abono capital,Agrario,9229,12500000.0,Fijo,Financiero,Fijo,,2026,2026-07
+2026-02-13,Egreso,Abono capital,Agrario,9759,9375000.0,Fijo,Financiero,Fijo,,2026,2026-02
+2026-08-13,Egreso,Abono capital,Agrario,9759,9375000.0,Fijo,Financiero,Fijo,,2026,2026-08
+2026-12-30,Egreso,Abono capital,Prestamo,0001,100000000.0,Fijo,Financiero,Fijo,,2026,2026-12
+2026-10-30,Egreso,Abono capital,Prestamo,0002,20000000.0,Fijo,Financiero,Fijo,,2026,2026-10
+2026-11-09,Egreso,Abono capital,Prestamo,0003,7000000.0,Fijo,Financiero,Fijo,,2026,2026-11
+2024-01-14,Egreso,Abono capital,Davivienda,9174,15000000.0,Fijo,Financiero,Fijo,,2024,2024-01
+2024-07-14,Egreso,Abono capital,Davivienda,9174,15000000.0,Fijo,Financiero,Fijo,,2024,2024-07
+2025-01-14,Egreso,Abono capital,Davivienda,9174,15000000.0,Fijo,Financiero,Fijo,,2025,2025-01
+2025-07-14,Egreso,Abono capital,Davivienda,9174,15000000.0,Fijo,Financiero,Fijo,,2025,2025-07
+2026-01-14,Egreso,Abono capital,Davivienda,9174,15000000.0,Fijo,Financiero,Fijo,,2026,2026-01
+2026-07-14,Egreso,Abono capital,Davivienda,9174,15000000.0,Fijo,Financiero,Fijo,,2026,2026-07
+2027-01-14,Egreso,Abono capital,Davivienda,9174,15000000.0,Fijo,Financiero,Fijo,,2027,2027-01
+2027-07-14,Egreso,Abono capital,Davivienda,9174,15000000.0,Fijo,Financiero,Fijo,,2027,2027-07
+2028-01-14,Egreso,Abono capital,Davivienda,9174,15000000.0,Fijo,Financiero,Fijo,,2028,2028-01
+2028-07-14,Egreso,Abono capital,Davivienda,9174,15000000.0,Fijo,Financiero,Fijo,,2028,2028-07
+2026-10-30,Egreso,Gasto financiero,BBVA,2996,18499427.92,Fijo,Financiero,Fijo,,2026,2026-10
+2027-04-30,Egreso,Gasto financiero,BBVA,2996,18499427.92,Fijo,Financiero,Fijo,,2027,2027-04
+2027-10-30,Egreso,Gasto financiero,BBVA,2996,17076395.0,Fijo,Financiero,Fijo,,2027,2027-10
+2028-04-30,Egreso,Gasto financiero,BBVA,2996,15653362.08,Fijo,Financiero,Fijo,,2028,2028-04
+2028-10-30,Egreso,Gasto financiero,BBVA,2996,14230329.17,Fijo,Financiero,Fijo,,2028,2028-10
+2029-04-30,Egreso,Gasto financiero,BBVA,2996,12807296.25,Fijo,Financiero,Fijo,,2029,2029-04
+2029-10-30,Egreso,Gasto financiero,BBVA,2996,11384263.33,Fijo,Financiero,Fijo,,2029,2029-10
+2030-04-30,Egreso,Gasto financiero,BBVA,2996,9961230.42,Fijo,Financiero,Fijo,,2030,2030-04
+2030-10-30,Egreso,Gasto financiero,BBVA,2996,8538197.5,Fijo,Financiero,Fijo,,2030,2030-10
+2031-04-30,Egreso,Gasto financiero,BBVA,2996,7115164.58,Fijo,Financiero,Fijo,,2031,2031-04
+2031-10-30,Egreso,Gasto financiero,BBVA,2996,5692131.67,Fijo,Financiero,Fijo,,2031,2031-10
+2032-04-30,Egreso,Gasto financiero,BBVA,2996,4269098.75,Fijo,Financiero,Fijo,,2032,2032-04
+2032-10-30,Egreso,Gasto financiero,BBVA,2996,2846065.83,Fijo,Financiero,Fijo,,2032,2032-10
+2033-04-30,Egreso,Gasto financiero,BBVA,2996,1423032.92,Fijo,Financiero,Fijo,,2033,2033-04
+2026-10-20,Egreso,Gasto financiero,BBVA,5638,18406930.78,Fijo,Financiero,Fijo,,2026,2026-10
+2027-04-20,Egreso,Gasto financiero,BBVA,5638,18406930.78,Fijo,Financiero,Fijo,,2027,2027-04
+2027-10-20,Egreso,Gasto financiero,BBVA,5638,14725544.62,Fijo,Financiero,Fijo,,2027,2027-10
+2028-04-20,Egreso,Gasto financiero,BBVA,5638,11044158.47,Fijo,Financiero,Fijo,,2028,2028-04
+2028-10-20,Egreso,Gasto financiero,BBVA,5638,7362772.31,Fijo,Financiero,Fijo,,2028,2028-10
+2029-04-20,Egreso,Gasto financiero,BBVA,5638,3681386.16,Fijo,Financiero,Fijo,,2029,2029-04
+2026-08-11,Egreso,Gasto financiero,Agrario,1967,1791307.47,Fijo,Financiero,Fijo,,2026,2026-08
+2027-02-11,Egreso,Gasto financiero,Agrario,1967,1343480.6,Fijo,Financiero,Fijo,,2027,2027-02
+2027-08-11,Egreso,Gasto financiero,Agrario,1967,895653.73,Fijo,Financiero,Fijo,,2027,2027-08
+2028-02-11,Egreso,Gasto financiero,Agrario,1967,447826.87,Fijo,Financiero,Fijo,,2028,2028-02
+2027-01-16,Egreso,Gasto financiero,Agrario,2537,21454907.71,Fijo,Financiero,Fijo,,2027,2027-01
+2026-12-03,Egreso,Gasto financiero,Agrario,3417,1670565.4,Fijo,Financiero,Fijo,,2026,2026-12
+2027-06-03,Egreso,Gasto financiero,Agrario,3417,1252924.05,Fijo,Financiero,Fijo,,2027,2027-06
+2027-12-03,Egreso,Gasto financiero,Agrario,3417,835282.7,Fijo,Financiero,Fijo,,2027,2027-12
+2028-06-03,Egreso,Gasto financiero,Agrario,3417,417641.35,Fijo,Financiero,Fijo,,2028,2028-06
+2027-03-29,Egreso,Gasto financiero,Agrario,3347,3202442.22,Fijo,Financiero,Fijo,,2027,2027-03
+2026-09-27,Egreso,Gasto financiero,Bancol,9487,1233432.24,Fijo,Financiero,Fijo,,2026,2026-09
+2027-03-27,Egreso,Gasto financiero,Bancol,9487,616716.12,Fijo,Financiero,Fijo,,2027,2027-03
+2026-10-01,Egreso,Gasto financiero,Bancol,9539,1232542.01,Fijo,Financiero,Fijo,,2026,2026-10
+2027-04-01,Egreso,Gasto financiero,Bancol,9539,616271.0,Fijo,Financiero,Fijo,,2027,2027-04
+2026-07-01,Egreso,Gasto financiero,Bogota,3831,965580.34,Fijo,Financiero,Fijo,,2026,2026-07
+2026-08-01,Egreso,Gasto financiero,Bogota,3831,949377.44,Fijo,Financiero,Fijo,,2026,2026-08
+2026-09-01,Egreso,Gasto financiero,Bogota,3831,932832.83,Fijo,Financiero,Fijo,,2026,2026-09
+2026-10-01,Egreso,Gasto financiero,Bogota,3831,915939.29,Fijo,Financiero,Fijo,,2026,2026-10
+2026-11-01,Egreso,Gasto financiero,Bogota,3831,898689.47,Fijo,Financiero,Fijo,,2026,2026-11
+2026-12-01,Egreso,Gasto financiero,Bogota,3831,881075.85,Fijo,Financiero,Fijo,,2026,2026-12
+2027-01-01,Egreso,Gasto financiero,Bogota,3831,863090.77,Fijo,Financiero,Fijo,,2027,2027-01
+2027-02-01,Egreso,Gasto financiero,Bogota,3831,844726.37,Fijo,Financiero,Fijo,,2027,2027-02
+2027-03-01,Egreso,Gasto financiero,Bogota,3831,825974.68,Fijo,Financiero,Fijo,,2027,2027-03
+2027-04-01,Egreso,Gasto financiero,Bogota,3831,806827.51,Fijo,Financiero,Fijo,,2027,2027-04
+2027-05-01,Egreso,Gasto financiero,Bogota,3831,787276.53,Fijo,Financiero,Fijo,,2027,2027-05
+2027-06-01,Egreso,Gasto financiero,Bogota,3831,767313.22,Fijo,Financiero,Fijo,,2027,2027-06
+2027-07-01,Egreso,Gasto financiero,Bogota,3831,746928.89,Fijo,Financiero,Fijo,,2027,2027-07
+2027-08-01,Egreso,Gasto financiero,Bogota,3831,726114.65,Fijo,Financiero,Fijo,,2027,2027-08
+2027-09-01,Egreso,Gasto financiero,Bogota,3831,704861.44,Fijo,Financiero,Fijo,,2027,2027-09
+2027-10-01,Egreso,Gasto financiero,Bogota,3831,683160.0,Fijo,Financiero,Fijo,,2027,2027-10
+2027-11-01,Egreso,Gasto financiero,Bogota,3831,661000.88,Fijo,Financiero,Fijo,,2027,2027-11
+2027-12-01,Egreso,Gasto financiero,Bogota,3831,638374.43,Fijo,Financiero,Fijo,,2027,2027-12
+2028-01-01,Egreso,Gasto financiero,Bogota,3831,615270.78,Fijo,Financiero,Fijo,,2028,2028-01
+2028-02-01,Egreso,Gasto financiero,Bogota,3831,591679.89,Fijo,Financiero,Fijo,,2028,2028-02
+2028-03-01,Egreso,Gasto financiero,Bogota,3831,567591.46,Fijo,Financiero,Fijo,,2028,2028-03
+2028-04-01,Egreso,Gasto financiero,Bogota,3831,542995.01,Fijo,Financiero,Fijo,,2028,2028-04
+2028-05-01,Egreso,Gasto financiero,Bogota,3831,517879.82,Fijo,Financiero,Fijo,,2028,2028-05
+2028-06-01,Egreso,Gasto financiero,Bogota,3831,492234.95,Fijo,Financiero,Fijo,,2028,2028-06
+2028-07-01,Egreso,Gasto financiero,Bogota,3831,466049.23,Fijo,Financiero,Fijo,,2028,2028-07
+2028-08-01,Egreso,Gasto financiero,Bogota,3831,439311.26,Fijo,Financiero,Fijo,,2028,2028-08
+2028-09-01,Egreso,Gasto financiero,Bogota,3831,412009.39,Fijo,Financiero,Fijo,,2028,2028-09
+2028-10-01,Egreso,Gasto financiero,Bogota,3831,384131.72,Fijo,Financiero,Fijo,,2028,2028-10
+2028-11-01,Egreso,Gasto financiero,Bogota,3831,355666.12,Fijo,Financiero,Fijo,,2028,2028-11
+2028-12-01,Egreso,Gasto financiero,Bogota,3831,326600.18,Fijo,Financiero,Fijo,,2028,2028-12
+2029-01-01,Egreso,Gasto financiero,Bogota,3831,296921.24,Fijo,Financiero,Fijo,,2029,2029-01
+2029-02-01,Egreso,Gasto financiero,Bogota,3831,266616.37,Fijo,Financiero,Fijo,,2029,2029-02
+2029-03-01,Egreso,Gasto financiero,Bogota,3831,235672.37,Fijo,Financiero,Fijo,,2029,2029-03
+2029-04-01,Egreso,Gasto financiero,Bogota,3831,204075.77,Fijo,Financiero,Fijo,,2029,2029-04
+2029-05-01,Egreso,Gasto financiero,Bogota,3831,171812.8,Fijo,Financiero,Fijo,,2029,2029-05
+2029-06-01,Egreso,Gasto financiero,Bogota,3831,138869.4,Fijo,Financiero,Fijo,,2029,2029-06
+2029-07-01,Egreso,Gasto financiero,Bogota,3831,105231.23,Fijo,Financiero,Fijo,,2029,2029-07
+2029-08-01,Egreso,Gasto financiero,Bogota,3831,70883.64,Fijo,Financiero,Fijo,,2029,2029-08
+2029-09-01,Egreso,Gasto financiero,Bogota,3831,35811.65,Fijo,Financiero,Fijo,,2029,2029-09
+2025-06-02,Egreso,Gasto financiero,BBVA,0352,12131890.76,Fijo,Financiero,Fijo,,2025,2025-06
+2025-12-02,Egreso,Gasto financiero,BBVA,0352,10109908.96,Fijo,Financiero,Fijo,,2025,2025-12
+2026-06-02,Egreso,Gasto financiero,BBVA,0352,8087927.17,Fijo,Financiero,Fijo,,2026,2026-06
+2026-12-02,Egreso,Gasto financiero,BBVA,0352,6065945.38,Fijo,Financiero,Fijo,,2026,2026-12
+2027-06-02,Egreso,Gasto financiero,BBVA,0352,4043963.59,Fijo,Financiero,Fijo,,2027,2027-06
+2027-12-02,Egreso,Gasto financiero,BBVA,0352,2021981.79,Fijo,Financiero,Fijo,,2027,2027-12
+2025-05-21,Egreso,Gasto financiero,Agrario,6499,9550740.83,Fijo,Financiero,Fijo,,2025,2025-05
+2025-11-21,Egreso,Gasto financiero,Agrario,6499,9550740.83,Fijo,Financiero,Fijo,,2025,2025-11
+2026-05-21,Egreso,Gasto financiero,Agrario,6499,9550740.83,Fijo,Financiero,Fijo,,2026,2026-05
+2026-11-21,Egreso,Gasto financiero,Agrario,6499,8595666.75,Fijo,Financiero,Fijo,,2026,2026-11
+2027-05-21,Egreso,Gasto financiero,Agrario,6499,7640592.66,Fijo,Financiero,Fijo,,2027,2027-05
+2027-11-21,Egreso,Gasto financiero,Agrario,6499,6685518.58,Fijo,Financiero,Fijo,,2027,2027-11
+2028-05-21,Egreso,Gasto financiero,Agrario,6499,5730444.5,Fijo,Financiero,Fijo,,2028,2028-05
+2028-11-21,Egreso,Gasto financiero,Agrario,6499,4775370.42,Fijo,Financiero,Fijo,,2028,2028-11
+2029-05-21,Egreso,Gasto financiero,Agrario,6499,3820296.33,Fijo,Financiero,Fijo,,2029,2029-05
+2029-11-21,Egreso,Gasto financiero,Agrario,6499,2865222.25,Fijo,Financiero,Fijo,,2029,2029-11
+2030-05-21,Egreso,Gasto financiero,Agrario,6499,1910148.17,Fijo,Financiero,Fijo,,2030,2030-05
+2030-11-21,Egreso,Gasto financiero,Agrario,6499,955074.08,Fijo,Financiero,Fijo,,2030,2030-11
+2026-04-28,Egreso,Gasto financiero,Agrario,0717,2548271.84,Fijo,Financiero,Fijo,,2026,2026-04
+2026-10-28,Egreso,Gasto financiero,Agrario,0717,1911203.88,Fijo,Financiero,Fijo,,2026,2026-10
+2027-04-28,Egreso,Gasto financiero,Agrario,0717,1274135.92,Fijo,Financiero,Fijo,,2027,2027-04
+2027-10-28,Egreso,Gasto financiero,Agrario,0717,637067.96,Fijo,Financiero,Fijo,,2027,2027-10
+2026-01-11,Egreso,Gasto financiero,Agrario,9229,2176506.4,Fijo,Financiero,Fijo,,2026,2026-01
+2026-07-11,Egreso,Gasto financiero,Agrario,9229,1088253.2,Fijo,Financiero,Fijo,,2026,2026-07
+2026-02-13,Egreso,Gasto financiero,Agrario,9759,1738182.57,Fijo,Financiero,Fijo,,2026,2026-02
+2026-08-13,Egreso,Gasto financiero,Agrario,9759,869091.28,Fijo,Financiero,Fijo,,2026,2026-08
+2026-06-30,Egreso,Gasto financiero,Prestamo,0002,799965.12,Fijo,Financiero,Fijo,,2026,2026-06
+2026-07-30,Egreso,Gasto financiero,Prestamo,0002,799965.12,Fijo,Financiero,Fijo,,2026,2026-07
+2026-08-30,Egreso,Gasto financiero,Prestamo,0002,799965.12,Fijo,Financiero,Fijo,,2026,2026-08
+2026-09-30,Egreso,Gasto financiero,Prestamo,0002,799965.12,Fijo,Financiero,Fijo,,2026,2026-09
+2024-01-14,Egreso,Gasto financiero,Davivienda,9174,10156173.78,Fijo,Financiero,Fijo,,2024,2024-01
+2024-07-14,Egreso,Gasto financiero,Davivienda,9174,9140556.4,Fijo,Financiero,Fijo,,2024,2024-07
+2025-01-14,Egreso,Gasto financiero,Davivienda,9174,8124939.02,Fijo,Financiero,Fijo,,2025,2025-01
+2025-07-14,Egreso,Gasto financiero,Davivienda,9174,7109321.65,Fijo,Financiero,Fijo,,2025,2025-07
+2026-01-14,Egreso,Gasto financiero,Davivienda,9174,6093704.27,Fijo,Financiero,Fijo,,2026,2026-01
+2026-07-14,Egreso,Gasto financiero,Davivienda,9174,5078086.89,Fijo,Financiero,Fijo,,2026,2026-07
+2027-01-14,Egreso,Gasto financiero,Davivienda,9174,4062469.51,Fijo,Financiero,Fijo,,2027,2027-01
+2027-07-14,Egreso,Gasto financiero,Davivienda,9174,3046852.13,Fijo,Financiero,Fijo,,2027,2027-07
+2028-01-14,Egreso,Gasto financiero,Davivienda,9174,2031234.76,Fijo,Financiero,Fijo,,2028,2028-01
+2028-07-14,Egreso,Gasto financiero,Davivienda,9174,1015617.38,Fijo,Financiero,Fijo,,2028,2028-07
+2026-09-27,Egreso,Seguros credito,Bancol,9487,40516.0,Fijo,Financiero,Fijo,,2026,2026-09
+2027-03-27,Egreso,Seguros credito,Bancol,9487,40516.0,Fijo,Financiero,Fijo,,2027,2027-03
+2026-10-01,Egreso,Seguros credito,Bancol,9539,38133.0,Fijo,Financiero,Fijo,,2026,2026-10
+2027-04-01,Egreso,Seguros credito,Bancol,9539,38133.0,Fijo,Financiero,Fijo,,2027,2027-04
+2026-02-11,Ingreso,Desembolso credito,Agrario,1967,18750000.0,Fijo,Financiero,Fijo,,2026,2026-02
+2026-03-16,Ingreso,Desembolso credito,Agrario,2537,110000000.0,Fijo,Financiero,Fijo,,2026,2026-03
+2026-06-03,Ingreso,Desembolso credito,Agrario,3417,16890000.0,Fijo,Financiero,Fijo,,2026,2026-06
+2026-05-29,Ingreso,Desembolso credito,Agrario,3347,20898000.0,Fijo,Financiero,Fijo,,2026,2026-05
+2026-03-27,Ingreso,Desembolso credito,Bancol,9487,10000000.0,Fijo,Financiero,Fijo,,2026,2026-03
+2026-04-01,Ingreso,Desembolso credito,Bancol,9539,10000000.0,Fijo,Financiero,Fijo,,2026,2026-04
+2026-06-01,Ingreso,Desembolso credito,Bogota,3831,30000000.0,Fijo,Financiero,Fijo,,2026,2026-06
+2026-06-11,Ingreso,Otros,Contado,"Excedente de ""venta casa"" a Cielo",58010000.0,Fijo,Otros,Fijo,Pagado,2026,2026-06
+2026-01-01,Egreso,Prestamo a:,Contado,Prestamo a Giojan por apendicitis,400000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-01
+2026-01-01,Egreso,Prestamo a:,Contado,Prestamo a Giojan,400000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-01
+2026-01-01,Egreso,Prestamo a:,Contado,Prestamo a Giojan por postoperatorio,660000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-01
+2026-04-01,Egreso,Otros,,Se desconoce,10000000.0,Fijo,Otros,Fijo,,2026,2026-04
+2026-08-01,Ingreso,Otros,Contado,Pago comision Javier,25000000.0,Fijo,Otros,Fijo,Pagado,2026,2026-08
+2026-09-01,Ingreso,Otros,Contado,Pago comision Javier,25000000.0,Fijo,Otros,Fijo,Pagado,2026,2026-09
+2026-10-01,Ingreso,Otros,Contado,Pago comision Javier,25000000.0,Fijo,Otros,Fijo,Pagado,2026,2026-10
+2026-11-01,Ingreso,Otros,Contado,Pago comision Javier,25000000.0,Fijo,Otros,Fijo,Pagado,2026,2026-11
+2026-01-06,Egreso,Administrativo,,Pago renta Javier,4424000.0,Fijo,Financiero,Fijo,,2026,2026-01
+2026-01-06,Egreso,Envios y pasajes,,Pago saldo cortada y transporte madera,500000.0,Fijo,Operativo,Fijo,,2026,2026-01
+2026-01-08,Egreso,Envios y pasajes,,Pago anticipo Julio Montenegro,200000.0,Fijo,Operativo,Fijo,,2026,2026-01
+2026-01-08,Egreso,Arreglos,,Pago arreglo inversor planta solar,182000.0,Fijo,Operativo,Fijo,,2026,2026-01
+2026-01-08,Egreso,Herramientas,,"Compra martillos, machetes, palas",159300.0,Fijo,Operativo,Fijo,,2026,2026-01
+2026-01-12,Egreso,Mercado finca,,Pago deudas Tienda La Bendicion,750900.0,Fijo,Operativo,Fijo,,2026,2026-01
+2026-01-14,Egreso,Camionetas,,Pago arreglo Dmax,300000.0,Fijo,Operativo,Fijo,,2026,2026-01
+2026-01-19,Egreso,Mercado finca,,Compra remesa La Reforma,581100.0,Fijo,Operativo,Fijo,,2026,2026-01
+2026-01-20,Egreso,Camionetas,,Pago arreglo caja direccion Dmax,480000.0,Fijo,Operativo,Fijo,,2026,2026-01
+2026-01-21,Egreso,Mercado finca,,Compra verdura La Reforma,119000.0,Fijo,Operativo,Fijo,,2026,2026-01
+2026-01-31,Egreso,Mercado finca,,Pago cilindro gas y otros La Reforma,216000.0,Fijo,Operativo,Fijo,,2026,2026-01
+2026-02-05,Egreso,Camionetas,,Pago arreglo ventilador Dmax,381000.0,Fijo,Operativo,Fijo,,2026,2026-02
+2026-02-06,Egreso,Administrativo,,Pago arreglo credito Alvaro Andres,1700000.0,Fijo,Financiero,Fijo,,2026,2026-02
+2026-02-07,Egreso,Arreglos,,Pago arreglo inversor y compra de bateria pequeña,570000.0,Fijo,Operativo,Fijo,,2026,2026-02
+2026-02-09,Egreso,Envios y pasajes,,Compra pasaje Giojan,150000.0,Fijo,Operativo,Fijo,,2026,2026-02
+2026-02-09,Egreso,Mercado finca,,Compra remesa La Reforma,321300.0,Fijo,Operativo,Fijo,,2026,2026-02
+2026-02-09,Egreso,Mercado finca,,Compra verdura La Reforma,84000.0,Fijo,Operativo,Fijo,,2026,2026-02
+2026-02-09,Egreso,Envios y pasajes,,"Pago envio baterias, panel, remesa",220000.0,Fijo,Operativo,Fijo,,2026,2026-02
+2026-02-15,Egreso,Mercado finca,,Compra cilindro gas La Reforma,120000.0,Fijo,Operativo,Fijo,,2026,2026-02
+2026-02-23,Egreso,Administrativo,,Pago de intereses viejos para normalizacion BBVA,11500000.0,Fijo,Financiero,Fijo,,2026,2026-02
+2026-02-24,Egreso,Herramientas,,Compra de brochas La Reforma,25000.0,Fijo,Operativo,Fijo,,2026,2026-02
+2026-02-26,Egreso,Mercado finca,,Compra carne La Reforma,169400.0,Fijo,Operativo,Fijo,,2026,2026-02
+2026-03-05,Egreso,Mercado finca,,Compra de mercado plaza La Reforma,166000.0,Fijo,Operativo,Fijo,,2026,2026-03
+2026-03-05,Egreso,Mercado finca,,Compra concentrado perritos,27800.0,Fijo,Operativo,Fijo,,2026,2026-03
+2026-03-06,Egreso,Combustible,,Compra combustible La Reforma,2034000.0,Fijo,Operativo,Fijo,,2026,2026-03
+2026-03-07,Egreso,Herramientas,,Compra estufa La Reforma,225000.0,Fijo,Operativo,Fijo,,2026,2026-03
+2026-03-18,Egreso,Repuestos maquinaria,,Compra rotores sembradora,945000.0,Fijo,Operativo,Fijo,,2026,2026-03
+2026-03-19,Egreso,Repuestos maquinaria,,Compra balineras por Breb,498000.0,Fijo,Operativo,Fijo,,2026,2026-03
+2026-03-20,Egreso,Administrativo,,Pago por creditos Lucenita,1000000.0,Fijo,Financiero,Fijo,,2026,2026-03
+2026-03-21,Egreso,Otros,,Envío dinero a Don Hector por medicamentos,200000.0,Fijo,Otros,Fijo,,2026,2026-03
+2026-03-22,Egreso,Mercado finca,,Compra de remesa La Reforma,714000.0,Fijo,Operativo,Fijo,,2026,2026-03
+2026-03-22,Egreso,Mercado finca,,Compra de carne La Reforma,153000.0,Fijo,Operativo,Fijo,,2026,2026-03
+2026-03-27,Egreso,Arreglos,,Pago arreglos La Reforma,700000.0,Fijo,Operativo,Fijo,,2026,2026-03
+2026-03-28,Egreso,Filtros y lubricantes,,Pago deuda Agrofilters,4000000.0,Fijo,Operativo,Fijo,,2026,2026-03
+2026-03-28,Egreso,Herramientas,,Compra pinturas,327500.0,Fijo,Operativo,Fijo,,2026,2026-03
+2026-03-28,Egreso,Filtros y lubricantes,,Compra filtros de aire W1104,300000.0,Fijo,Operativo,Fijo,,2026,2026-03
+2026-03-29,Egreso,Herramientas,,Compra implementos para el hogar,401000.0,Fijo,Operativo,Fijo,,2026,2026-03
+2026-03-29,Egreso,Herramientas,,Compra de lona para campamento,110000.0,Fijo,Operativo,Fijo,,2026,2026-03
+2026-03-30,Egreso,Mercado finca,,Compra mercado La Reforma,194500.0,Fijo,Operativo,Fijo,,2026,2026-03
+2026-03-30,Egreso,Mercado finca,,Compra mercado La Reforma,737800.0,Fijo,Operativo,Fijo,,2026,2026-03
+2026-04-01,Egreso,Combustible,,Pago combustible La Reforma,4000000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-09,Egreso,Camionetas,,Pago lavada Dmax,200000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-10,Egreso,Mercado finca,,Compra remesa La Reforma,475000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-11,Egreso,Mercado finca,,Compra carne La Reforma,112900.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-13,Egreso,Otros,,Pago servicio estadia de Giojan,100000.0,Fijo,Otros,Fijo,,2026,2026-04
+2026-04-16,Egreso,Otros,,Pago medicina por abejas Humberto,150000.0,Fijo,Otros,Fijo,,2026,2026-04
+2026-04-20,Egreso,Mercado finca,,Pago almuerzos Giojan y Topo,100000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-21,Egreso,Arreglos,,Pago tornero Jorge Hernandez,500000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-22,Egreso,Mercado finca,,Pago por servicio de transporte de almuerzos Jose Veneco,70000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-22,Egreso,Arreglos,,Pago tornero,1000000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-23,Egreso,Arreglos,,Pago mecanico,100000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-24,Egreso,Arreglos,,Pago arreglo moto,1500000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-05-24,Egreso,Mercado finca,,Compra carne La Reforma,379400.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-25,Egreso,Envios y pasajes,,Pago envios al Viento,260000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-04-25,Egreso,Repuestos maquinaria,,Compra de disco clutch,612864.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-25,Egreso,Repuestos maquinaria,,Compra repuestos moto,400000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-25,Egreso,Arreglos,,Pago de arreglo rancho,180000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-27,Egreso,Repuestos maquinaria,,Compra repuestos sembradora,394000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-27,Egreso,Mercado finca,,Compra mercado La Reforma,428000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-30,Egreso,Mercado finca,,Pago mecardo La Reforma,400000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-30,Egreso,Repuestos maquinaria,,Compra retenedor doble transmision World2,350000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-30,Egreso,Repuestos maquinaria,,Compra repuestos balinera embrague World2,685000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-30,Egreso,Otros,,Compra de vigas,860000.0,Fijo,Otros,Fijo,,2026,2026-04
+2026-04-30,Egreso,Repuestos maquinaria,,Compra repuestos sembradora,299750.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-04-30,Egreso,Envios y pasajes,,Pago tiquete de viaje Zulay al Viento,150000.0,Fijo,Operativo,Fijo,,2026,2026-04
+2026-05-02,Egreso,Arreglos,,Pago arreglo prensa tractor,1350000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-02,Egreso,Envios y pasajes,,Anticipo flete semilla,3000000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-02,Egreso,Arreglos,,Pago mecanico William,400000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-02,Egreso,Arreglos,,Pago de servicios de torno Nacho,300000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-03,Egreso,Mercado finca,,Compra de alimentos perros La Reforma,177500.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-03,Egreso,Mercado finca,,Compra mercado de plaza La Reforma,211000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-03,Egreso,Mercado finca,,Compra remesa La Reforma,760000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-04,Egreso,Arreglos,,Pago saldo tornero por desembarradores,194000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-05,Egreso,Envios y pasajes,,Pago acarreos,90000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-05,Egreso,Envios y pasajes,,Pago cargo de semilla a Oscar arevalo,200000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-07,Egreso,Mercado finca,,Abono a tienda Leo,1000000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-08,Egreso,Herramientas,,Compra de herramienta y varios,519900.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-08,Egreso,Repuestos maquinaria,,Compra manguera sembradora,120000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-09,Egreso,Combustible,,Compra combustible Ana Rita,1356000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-09,Egreso,Repuestos maquinaria,,Compra manguera delgada,176000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-09,Egreso,Repuestos maquinaria,,Compra manguera de succión,338500.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-09,Egreso,Envios y pasajes,,Pago pasaje a William desde El Viento a Villavo,200000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-09,Egreso,Mercado finca,,Compra portas y baldes,89000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-13,Egreso,Mercado finca,,Compra carne La Reforma,342000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-14,Egreso,Mercado finca,,Pago varios Leo,300000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-15,Egreso,Mercado finca,,Compra de mercado Doña Melva,220000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-15,Egreso,Repuestos maquinaria,,Pago insumos para control tractor,360000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-15,Egreso,Repuestos maquinaria,,Compra empaquetadura tractor World 2,100000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-19,Egreso,Dotacion trabajadores,,Pago impermeable Topo,58000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-19,Egreso,Camionetas,,Compra bomba principal embrague Dmax,170000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-19,Egreso,Dotacion trabajadores,,Pago botas de caucho,96000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-19,Egreso,Repuestos maquinaria,,Repuesto voleadora,648000.0,Fijo,Operativo,Fijo,,2026,2026-05
+2026-05-19,Egreso,Arreglos,Contado,Pago arreglo llanta rastrillo,60000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-05
+2026-05-21,Egreso,Repuestos maquinaria,Contado,Compra balineras,120000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-05
+2026-05-26,Egreso,Mercado finca,Contado,Compra mercado La Reforma,794700.0,Fijo,Operativo,Fijo,Pagado,2026,2026-05
+2026-05-26,Egreso,Mercado finca,Contado,Compra mercado de plaza La Reforma,204000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-05
+2026-05-26,Egreso,Filtros y lubricantes,Contado,Compra de filtro trampa cosechadora,120000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-05
+2026-05-30,Egreso,Combustible,Contado,Compra combustible La Reforma,1365000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-05
+2026-05-30,Egreso,Envios y pasajes,Contado,Abono al mulero Samuel Oscar,1000000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-05
+2026-05-31,Egreso,Combustible,Contado,Compra de combustible La Reforma,1365000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-05
+2026-06-01,Egreso,Mercado finca,Contado,Pago de cosas varias donde Doña Leo,740000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-02,Egreso,Repuestos maquinaria,Contado,Compra de cores A-37 fumigadora,13000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-02,Egreso,Arreglos,Contado,Pago de arreglo de mangueras,40000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-02,Egreso,Herramientas,Contado,Compra de alambre para el puente,73000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-02,Egreso,Envios y pasajes,Contado,Pago de transporte de las mangueras y alternador a Rafel,30000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-02,Egreso,Herramientas,Contado,Pago de puntillones y grapas gruesas,71200.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-02,Egreso,Repuestos maquinaria,Contado,Balineras y pines,119600.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-02,Egreso,Filtros y lubricantes,Contado,Pago de filtro para combinada,120000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-02,Egreso,Envios y pasajes,Contado,Pago de envio para La Reforma,200000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-02,Egreso,Camionetas,Contado,Compra alternador Dmax,200000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-02,Egreso,Otros,Contado,Compra gafas ,500000.0,Fijo,Otros,Fijo,Pendiente,2026,2026-06
+2026-06-02,Egreso,Repuestos maquinaria,Contado,Compra correa del alternador,55000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-03,Egreso,Mercado finca,Contado,Compra mercado en El Viento,336000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-03,Egreso,Mercado finca,Contado,Compra mercado en El Viento,614300.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-04,Egreso,Envios y pasajes,Contado,Pago saldo de transporte semilla y fertilizante,1447000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-10-05,Egreso,Prestamo a:,Contado,Prestamo Hector ,150000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-10
+2026-06-08,Egreso,Combustible,Contado,Compra combustible Ana Rita,1476000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-09,Egreso,Otros,Contado,Pago por arreglos finca Misael,1000000.0,Fijo,Otros,Fijo,Pagado,2026,2026-06
+2026-06-10,Egreso,Arreglos,Contado,Arreglo mangueras voleadora,40000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-10,Egreso,Mercado finca,Contado,Compra 18 libras de cerdo a hermana Nacho,180000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-12,Egreso,Otros,Contado,Pago de hotel por accidente Sebastian,130000.0,Fijo,Otros,Fijo,Pagado,2026,2026-06
+2026-06-13,Egreso,Otros,Contado,Pago de medicamentos Sebastian,250000.0,Fijo,Otros,Fijo,Pagado,2026,2026-06
+2026-06-16,Egreso,Mercado finca,Contado,Compra carne La Reforma,120000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-16,Egreso,Arreglos,Contado,Pago de servicios arreglo Nacho,800000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-16,Egreso,Otros,Contado,Pago de saldo de maderas para el puente,1000000.0,Fijo,Otros,Fijo,Pagado,2026,2026-06
+2026-06-18,Egreso,Combustible,Contado,Pago combustible La Reforma,1948047.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-18,Egreso,Combustible,Contado,Pago combustible La Reforma,600000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-18,Egreso,Camionetas,Contado,Pago lavado Dmax,250000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-18,Egreso,Combustible,Contado,Pago combustible La Reforma,580000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-18,Egreso,Camionetas,Contado,Compra vidrio Dmax,395000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-19,Egreso,Mercado finca,Contado,Compra mercado La Reforma,855100.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-19,Egreso,Combustible,Contado,Compra combustible La Reforma,1440000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-20,Egreso,Mercado finca,Contado,Pago mercado Melva,244000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-19,Egreso,Administrativo,Contado,Pago de comision creditos Lucena,500000.0,Fijo,Financiero,Fijo,Pagado,2026,2026-06
+2026-06-20,Egreso,Administrativo,Contado,Pago de comision creditos Lucena,2500000.0,Fijo,Financiero,Fijo,Pagado,2026,2026-06
+2026-06-23,Egreso,Otros,Contado,Medicamentos Sebastian,250000.0,Fijo,Otros,Fijo,Pagado,2026,2026-06
+2026-03-27,Egreso,Acuerdo Diana Agricola,Contado,Primer pago del acuerdo,7000000.0,Fijo,Financiero,Fijo,Pagado,2026,2026-03
+2026-05-19,Egreso,Acuerdo Diana Agricola,Contado,Segundo pago del acuerdo,7000000.0,Fijo,Financiero,Fijo,Pagado,2026,2026-05
+2026-06-16,Egreso,Acuerdo Diana Agricola,Contado,Tercer pago del acuerdo,7000000.0,Fijo,Financiero,Fijo,Pagado,2026,2026-06
+2026-06-30,Egreso,Acuerdo Diana Agricola,Contado,Cuarto pago del acuerdo,7000000.0,Fijo,Financiero,Fijo,Pendiente,2026,2026-06
+2026-07-15,Egreso,Acuerdo Diana Agricola,Contado,Quinto pago del acuerdo,7000000.0,Fijo,Financiero,Fijo,Pendiente,2026,2026-07
+2026-09-15,Egreso,Acuerdo Diana Agricola,Contado,Sexto pago del acuerdo,27100000.0,Fijo,Financiero,Fijo,Pendiente,2026,2026-09
+2026-09-30,Egreso,Acuerdo Diana Agricola,Contado,Septimo pago del acuerdo,27100000.0,Fijo,Financiero,Fijo,Pendiente,2026,2026-09
+2026-10-30,Egreso,Acuerdo Diana Agricola,Contado,Octavo pago del acuerdo,27100000.0,Fijo,Financiero,Fijo,Pendiente,2026,2026-10
+2026-11-01,Egreso,Acuerdo Diana Agricola,Contado,Pago 50% cartera Diego con Diana Agricola,110000000.0,Fijo,Financiero,Fijo,Pendiente,2026,2026-11
+2026-11-01,Egreso,Acuerdo Diana Agricola,Contado,Pago 50% cartera Javier con Diana Agricola,110000000.0,Fijo,Financiero,Fijo,Pendiente,2026,2026-11
+2026-06-25,Egreso,Camionetas,Contado,Pago de arreglo electrico Dmax,1000000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-26,Egreso,Mercado finca,Contado,Compra de carne La Reforma,357500.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-26,Egreso,Mercado finca,Contado,Compra almuerzos El Viento,33000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-06-27,Egreso,Arreglos,Contado,Pago arreglo prensa World 1,2100000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-01-01,Egreso,Nomina,Costo empleador,Costo total empleador mes,14416644.79,Fijo,Nomina,Fijo,,2026,2026-01
+2026-02-01,Egreso,Nomina,Costo empleador,Costo total empleador mes,16746475.49,Fijo,Nomina,Fijo,,2026,2026-02
+2026-03-01,Egreso,Nomina,Costo empleador,Costo total empleador mes,17005345.57,Fijo,Nomina,Fijo,,2026,2026-03
+2026-04-01,Egreso,Nomina,Costo empleador,Costo total empleador mes,21751297.01,Fijo,Nomina,Fijo,,2026,2026-04
+2026-05-01,Egreso,Nomina,Costo empleador,Costo total empleador mes,30760515.06,Fijo,Nomina,Fijo,,2026,2026-05
+2026-06-01,Egreso,Nomina,Costo empleador,Costo total empleador mes,28223048.98,Fijo,Nomina,Fijo,,2026,2026-06
+2026-07-01,Egreso,Nomina,Costo empleador,Costo total empleador mes,28568209.08,Fijo,Nomina,Fijo,,2026,2026-07
+2026-08-01,Egreso,Nomina,Costo empleador,Costo total empleador mes,26497248.45,Fijo,Nomina,Fijo,,2026,2026-08
+2026-09-01,Egreso,Nomina,Costo empleador,Costo total empleador mes,21751297.01,Fijo,Nomina,Fijo,,2026,2026-09
+2026-10-01,Egreso,Nomina,Costo empleador,Costo total empleador mes,21751297.01,Fijo,Nomina,Fijo,,2026,2026-10

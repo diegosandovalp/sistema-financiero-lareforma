@@ -1,0 +1,19 @@
+ID_Credito,Banco,Nombre_hoja_amortizacion,Titular,Estado,Fecha_desembolso,Monto_desembolso
+1001,Banco Norte,Amort_Banco_1001,María Marcela Torres,Activo,2026/04/30,0.0
+1002,Banco Norte,Amort_Banco_1002,Gladys Cindy García,Activo,2026/04/20,0.0
+1003,Banco Central,Amort_Banco_1003,Gladys Cindy García,Activo,2026/02/11,18750000.0
+1004,Banco Central,Amort_Banco_1004,Gladys Cindy García,Activo,2026/03/16,110000000.0
+1005,Banco Central,Amort_Banco_1005,Gladys Cindy García,Activo,2026/06/03,16890000.0
+1006,Banco Central,Amort_Banco_1006,José López Moreno,Activo,2026/05/29,20898000.0
+1007,Banco del Valle,Amort_Banco_1007,Gladys Cindy García,Activo,2026/03/27,10000000.0
+1008,Banco del Valle,Amort_Banco_1008,Gladys Cindy García,Activo,2026/04/01,10000000.0
+1009,Banco Andino,Amort_Banco_1009,Blanca Becerra,Activo,2026/06/01,30000000.0
+1010,Banco Norte,Amort_Banco_1010,Gladys Cindy García,Activo,2024/12/02,0.0
+1011,Banco Central,Amort_Banco_1011,Gladys Cindy García,Activo,2024/11/21,0.0
+1012,Banco Central,Amort_Banco_1012,Gladys Cindy García,Activo,2025/10/28,0.0
+1013,Banco Central,Amort_Banco_1013,Gladys Cindy García,Activo,2025/07/11,0.0
+1014,Banco Central,Amort_Banco_1014,Gladys Cindy García,Activo,2025/08/13,0.0
+1015,Banco Sur,Amort_Banco_1015,María Marcela Torres,Activo,2026/04/30,0.0
+1016,Banco Sur,Amort_Banco_1016,María Marcela Torres,Activo,2026/05/30,0.0
+1017,Banco Sur,Amort_Banco_1017,María Marcela Torres,Activo,2026/03/09,0.0
+1018,Banco Norte,Amort_Banco_1018,Gladys Cindy García,Activo,2026/07/14,0.0
