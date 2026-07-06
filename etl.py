@@ -5,7 +5,7 @@
 
 import os
 from dotenv import load_dotenv
-from sqlalchemy import create_engine, text
+from sqlalchemy import create_engine, text, inspect
 import pandas as pd
 
 # ----------------------------------------------------------------------
@@ -17,6 +17,8 @@ url = (
     f"@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_NAME')}"
 )
 engine = create_engine(url)
+
+CARPETA_DATOS = "datos"
 
 # ----------------------------------------------------------------------
 # 2. DICCIONARIO: archivo CSV -> tabla en PostgreSQL
@@ -52,43 +54,85 @@ ORDEN_CARGA = [
     "nomina_provisiones",   # -> empleados
 ]
 
-# Invertir el diccionario: tabla -> archivo (para buscar el CSV de cada tabla)
+# Invertir el diccionario: tabla -> archivo
 TABLA_A_ARCHIVO = {tabla: archivo for archivo, tabla in MAPEO_TABLAS.items()}
 
 # ----------------------------------------------------------------------
-# 4. RONDA 1: VACIAR todas las tablas (orden inverso: hijas primero)
+# 0. VERIFICACIÓN PREVIA: ¿existen todos los CSV antes de tocar la base?
+#    Si falta alguno, avisamos y NO vaciamos nada (evita dejar la base a medias).
 # ----------------------------------------------------------------------
-print("=== VACIANDO TABLAS (hijas -> padres) ===")
+print("=== VERIFICANDO ARCHIVOS CSV ===")
+faltantes = []
+for tabla in ORDEN_CARGA:
+    archivo = TABLA_A_ARCHIVO[tabla]
+    ruta = os.path.join(CARPETA_DATOS, archivo)
+    if not os.path.exists(ruta):
+        faltantes.append(archivo)
+        print(f"  ❌ FALTA: {archivo}")
+    else:
+        print(f"  ✓ {archivo}")
+
+if faltantes:
+    print(f"\n⛔ Faltan {len(faltantes)} archivo(s). No se cargó nada.")
+    print("   Revisa la carpeta 'datos/' y vuelve a intentar.")
+    exit()  # detiene el script antes de tocar la base
+
+# ----------------------------------------------------------------------
+# CONTEO ANTES: cuántas filas hay en cada tabla actualmente
+# ----------------------------------------------------------------------
+inspector = inspect(engine)
+
+def contar_filas(tabla):
+    with engine.connect() as con:
+        resultado = con.execute(text(f"SELECT COUNT(*) FROM {tabla};"))
+        return resultado.scalar()
+
+print("\n=== CONTEO ANTES ===")
+conteo_antes = {}
+for tabla in ORDEN_CARGA:
+    conteo_antes[tabla] = contar_filas(tabla)
+    print(f"  {tabla}: {conteo_antes[tabla]} filas")
+
+# ----------------------------------------------------------------------
+# RONDA 1: VACIAR todas las tablas (orden inverso: hijas primero)
+# ----------------------------------------------------------------------
+print("\n=== VACIANDO TABLAS (hijas -> padres) ===")
 with engine.begin() as conexion:
     for tabla in reversed(ORDEN_CARGA):
         conexion.execute(text(f"TRUNCATE TABLE {tabla} CASCADE;"))
         print(f"  Vaciada: {tabla}")
 
 # ----------------------------------------------------------------------
-# 5. RONDA 2: CARGAR cada CSV (padres -> hijas)
+# RONDA 2: CARGAR cada CSV (padres -> hijas)
 # ----------------------------------------------------------------------
-from sqlalchemy import inspect
-inspector = inspect(engine)
-
 print("\n=== CARGANDO CSV (padres -> hijas) ===")
 for tabla in ORDEN_CARGA:
     archivo = TABLA_A_ARCHIVO[tabla]
-    ruta = f"datos/{archivo}"
+    ruta = os.path.join(CARPETA_DATOS, archivo)
 
-    # Extract: leer el CSV
-    df = pd.read_csv(ruta)
+    try:
+        # Extract
+        df = pd.read_csv(ruta)
+        # Transform 1: columnas a minúscula
+        df.columns = df.columns.str.lower()
+        # Transform 2: solo columnas que la tabla realmente tiene
+        columnas_tabla = [col["name"] for col in inspector.get_columns(tabla)]
+        columnas_validas = [c for c in df.columns if c in columnas_tabla]
+        df = df[columnas_validas]
+        # Load
+        df.to_sql(tabla, engine, if_exists="append", index=False)
+        print(f"  Cargada: {tabla}  ({df.shape[0]} filas, {len(columnas_validas)} columnas)")
+    except Exception as e:
+        print(f"  ❌ ERROR cargando {tabla}: {e}")
 
-    # Transform 1: nombres de columna a minúscula
-    df.columns = df.columns.str.lower()
+# ----------------------------------------------------------------------
+# CONTEO DESPUÉS + RESUMEN: comparar antes vs después
+# ----------------------------------------------------------------------
+print("\n=== RESUMEN (antes -> después) ===")
+for tabla in ORDEN_CARGA:
+    despues = contar_filas(tabla)
+    antes = conteo_antes[tabla]
+    flecha = "✓" if despues > 0 else "⚠"
+    print(f"  {flecha} {tabla}: {antes} -> {despues} filas")
 
-    # Transform 2: quedarse SOLO con las columnas que la tabla realmente tiene
-    columnas_tabla = [col["name"] for col in inspector.get_columns(tabla)]
-    columnas_validas = [c for c in df.columns if c in columnas_tabla]
-    df = df[columnas_validas]
-
-    # Load: cargar a PostgreSQL
-    df.to_sql(tabla, engine, if_exists="append", index=False)
-
-    print(f"  Cargada: {tabla}  ({df.shape[0]} filas, {len(columnas_validas)} columnas)")
-
-print("\n✅ ETL COMPLETADO. Todas las tablas actualizadas.")
+print("\n✅ ETL COMPLETADO.")

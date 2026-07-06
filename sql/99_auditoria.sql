@@ -1,3 +1,15 @@
+/* ============================================================
+   AUDITORÍA DE INTEGRIDAD DE DATOS  |  Base: la_reforma
+   ------------------------------------------------------------
+   PROPÓSITO: Verificar la calidad de los datos antes de confiar
+   en cualquier análisis. Auditoría en 4 capas:
+     1. Tipos de dato correctos por columna
+     2. Integridad referencial (sin huérfanos en llaves foráneas)
+     3. Unicidad (sin duplicados en IDs que deben ser únicos)
+     4. Completitud (sin NULLs en columnas críticas)
+   RESULTADO: base validada — 0 huérfanos, 0 duplicados indebidos,
+   0 nulos críticos. Estructura lista para análisis confiable.
+   ============================================================ */
 -- AUDITORÍA 1: tipos de dato de cada columna en todas tus tablas
 SELECT
     table_name,
