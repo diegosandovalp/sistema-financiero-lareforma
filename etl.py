@@ -33,6 +33,7 @@ MAPEO_TABLAS = {
     "Sistema_nomina_LaReforma - Nomina_empleados.csv":               "empleados",
     "Sistema_nomina_LaReforma - Nomina_base.csv":                    "nomina_detalle",
     "Sistema_nomina_LaReforma - Nomina_provisiones_acumuladas.csv":  "nomina_provisiones",
+    "Sistema_cultivo_LaReforma - Labores_cultivo.csv":               "labores_cultivo",
 }
 
 # ----------------------------------------------------------------------
@@ -52,6 +53,7 @@ ORDEN_CARGA = [
     "costos_cultivo",       # -> cultivos
     "nomina_detalle",       # -> empleados
     "nomina_provisiones",   # -> empleados
+    "labores_cultivo",      # -> cultivos (por id_cultivo)
 ]
 
 # Invertir el diccionario: tabla -> archivo
