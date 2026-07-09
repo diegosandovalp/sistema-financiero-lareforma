@@ -1,4 +1,4 @@
-ID_Movimiento,Fecha,Tipo,Categoria,Concepto,Valor,Medio_pago,Condicion_pago,Estado_pago,Responsable,Destinatario_o_emisor,Observaciones,Origen,Estado_movimiento
+id_movimiento,Fecha,Tipo,Categoria,Concepto,Valor,Medio_pago,Condicion_pago,Estado_pago,Responsable,Destinatario_o_emisor,Observaciones,Origen,Estado_movimiento
 MV-001,2026/06/11,Ingreso,Otros,"Excedente de ""venta casa"" a Cielo",58010000.0,Cheque,Contado,Pagado,Gladys Cindy García,Gladys Cindy García,Excedente del traspaso de hipoteca,Otros,Fijo
 MV-002,2026/01/01,Egreso,Prestamo a:,Prestamo a Giojan por apendicitis,400000.0,Transferencia,Contado,Pagado,María Marcela Torres,Lizeth Pérez,,Operativo,Fijo
 MV-003,2026/01/01,Egreso,Prestamo a:,Prestamo a Giojan,400000.0,Transferencia,Contado,Pagado,María Marcela Torres,Lizeth Pérez,,Operativo,Fijo
@@ -158,3 +158,8 @@ MV-156,2026/06/25,Egreso,Camionetas,Pago de arreglo electrico Dmax,1000000.0,Tra
 MV-157,2026/06/26,Egreso,Mercado finca,Compra de carne La Reforma,357500.0,Transferencia,Contado,Pagado,Gladys Cindy García,Johana López Gómez,,Operativo,Fijo
 MV-158,2026/06/26,Egreso,Mercado finca,Compra almuerzos El Viento,33000.0,Transferencia,Contado,Pagado,Gladys Cindy García,,,Operativo,Fijo
 MV-159,2026/06/27,Egreso,Arreglos,Pago arreglo prensa World 1,2100000.0,Transferencia,Contado,Pagado,Gladys Cindy García,,,Operativo,Fijo
+MV-160,2026/01/07,Egreso,Camionetas,Pago cambio de aceite Dmax,368000.0,Transferencia,Contado,Pagado,Gladys Cindy García,,,Operativo,Fijo
+MV-161,2026/02/07,Egreso,Mercado finca,Compra mercado La Reforma,835000.0,Transferencia,Contado,Pagado,Gladys Cindy García,Katherine Martínez,,Operativo,Fijo
+MV-162,2026/07/03,Egreso,Repuestos maquinaria,Pago por repuestos voleadora,152000.0,Transferencia,Contado,Pagado,Gladys Cindy García,Camila Ríos,,Operativo,Fijo
+MV-163,2026/07/03,Egreso,Filtros y lubricantes,Pago por aceites y demas,2623000.0,Transferencia,Contado,Pagado,Gladys Cindy García,Yamid Castellanos,,Operativo,Fijo
+MV-164,2026/07/04,Egreso,Camionetas,Compra de rin Dmax,200000.0,Transferencia,Contado,Pagado,Gladys Cindy García,,,Operativo,Fijo

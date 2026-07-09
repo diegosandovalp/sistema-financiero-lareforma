@@ -504,6 +504,11 @@ Fecha,Tipo,Categoria,Subcategoria,Concepto,Valor,Escenario,Origen,Estado_movimie
 2026-06-26,Egreso,Mercado finca,Contado,Compra de carne La Reforma,357500.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
 2026-06-26,Egreso,Mercado finca,Contado,Compra almuerzos El Viento,33000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
 2026-06-27,Egreso,Arreglos,Contado,Pago arreglo prensa World 1,2100000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-06
+2026-01-07,Egreso,Camionetas,Contado,Pago cambio de aceite Dmax,368000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-01
+2026-02-07,Egreso,Mercado finca,Contado,Compra mercado La Reforma,835000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-02
+2026-07-03,Egreso,Repuestos maquinaria,Contado,Pago por repuestos voleadora,152000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-07
+2026-07-03,Egreso,Filtros y lubricantes,Contado,Pago por aceites y demas,2623000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-07
+2026-07-04,Egreso,Camionetas,Contado,Compra de rin Dmax,200000.0,Fijo,Operativo,Fijo,Pagado,2026,2026-07
 2026-01-01,Egreso,Nomina,Costo empleador,Costo total empleador mes,14416644.79,Fijo,Nomina,Fijo,,2026,2026-01
 2026-02-01,Egreso,Nomina,Costo empleador,Costo total empleador mes,16746475.49,Fijo,Nomina,Fijo,,2026,2026-02
 2026-03-01,Egreso,Nomina,Costo empleador,Costo total empleador mes,17005345.57,Fijo,Nomina,Fijo,,2026,2026-03
